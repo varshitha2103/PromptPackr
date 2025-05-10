@@ -14,7 +14,6 @@
 - 🐍 Python — Core compression logic
 
 ## 📸 Demo
-![demo-screenshot]
 <img width="298" alt="res1" src="https://github.com/user-attachments/assets/d790bcf7-92cc-4967-a939-81ba37d29db0" />
 
 ## 🚀 Getting Started
