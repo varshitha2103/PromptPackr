@@ -1,0 +1,17 @@
+Manager: Hey, have you had a chance to look at the Q3 marketing budget yet?
+
+Analyst: Yeah, I did a quick review this morning. I noticed that the social media spend is higher than expected.
+
+Manager: That’s what I thought too. Can you break it down and check if we’re overspending on any one platform?
+
+Analyst: Sure, I’ll pull the performance metrics and ROI for each platform — Instagram, LinkedIn, and Twitter.
+
+Manager: Perfect. Also, let's prep a slide for the exec meeting on Thursday showing a recommendation for reallocating some of that budget.
+
+Analyst: Got it. I’ll suggest shifting some funds from Twitter to LinkedIn since Twitter engagement dropped last month.
+
+Manager: Makes sense. Oh — and can you include a quick snapshot of last quarter’s email campaign results?
+
+Analyst: Absolutely. I’ll wrap all of this in a short deck and send it to you by tomorrow EOD.
+
+Manager: Great, thanks! Looking forward to it.
